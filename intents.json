@@ -1,0 +1,333 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I do for you?",
+        "Greetings! How may I assist you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later"
+      ],
+      "responses": [
+        "Goodbye! If you have more questions, feel free to ask.",
+        "See you later! Have a great day."
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "Tell me about courses",
+        "What programs do you offer?",
+        "Courses"
+      ],
+      "responses": [
+        "We offer a variety of undergraduate and graduate programs. You can find more information on our official website or specify the type of program you're interested in."
+      ]
+    },
+    {
+      "tag": "admission",
+      "patterns": [
+        "How can I apply?",
+        "Admission process",
+        "Application"
+      ],
+      "responses": [
+        "To apply, please visit our admissions page on the official website. You'll find detailed information on the application process, requirements, and deadlines."
+      ]
+    },
+    {
+      "tag": "campus_facilities",
+      "patterns": [
+        "Tell me about campus facilities",
+        "What facilities are available on campus?",
+        "Campus amenities"
+      ],
+      "responses": [
+        "Our campus provides state-of-the-art facilities, including modern classrooms, libraries, sports facilities, and more. Feel free to explore our campus map or ask about specific facilities."
+      ]
+    },
+    {
+      "tag": "campus_life",
+      "patterns": [
+        "What is campus life like?",
+        "Tell me about student life",
+        "Extracurricular activities"
+      ],
+      "responses": [
+        "Campus life is vibrant and diverse! Students can participate in various clubs, organizations, and events. From sports to cultural activities, there's always something happening on campus."
+      ]
+    },
+    {
+      "tag": "events",
+      "patterns": [
+        "Are there any upcoming events?",
+        "Tell me about university events",
+        "Event calendar"
+      ],
+      "responses": [
+        "Yes, we have a variety of events throughout the year, including academic conferences, cultural festivals, and student-led activities. Check our event calendar for upcoming happenings."
+      ]
+    },
+    {
+      "tag": "general_info",
+      "patterns": [
+        "Tell me more about the university",
+        "General information",
+        "About us"
+      ],
+      "responses": [
+        "Our university is committed to providing a high-quality education and fostering a supportive learning environment. You can learn more about our history, mission, and values on the official website."
+      ]
+    },
+    {
+      "tag": "official_website",
+      "patterns": [
+        "Tell me about the official website",
+        "Website information",
+        "Where can I find information on the website?"
+      ],
+      "responses": [
+        "Our official website is the primary source for detailed information about our university. You can find information about programs, admissions, events, and more. Feel free to explore it at https://www.gehu.ac.in."
+      ]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "Tell me about the faculty",
+        "Faculty members",
+        "Teaching staff"
+      ],
+      "responses": [
+        "Our faculty consists of highly qualified and experienced professionals dedicated to providing quality education. You can explore details about individual faculty members on our website."
+      ]
+    },
+    {
+      "tag": "research",
+      "patterns": [
+        "Research opportunities",
+        "Tell me about research programs",
+        "Research facilities"
+      ],
+      "responses": [
+        "We encourage research and offer various opportunities for students and faculty. Explore our research programs, facilities, and ongoing projects on our official website."
+      ]
+    },
+    {
+      "tag": "internships",
+      "patterns": [
+        "Internship opportunities",
+        "Tell me about internships",
+        "Internship programs"
+      ],
+      "responses": [
+        "We provide internship opportunities to help students gain practical experience. Check with our career services department or explore internship programs on our official website."
+      ]
+    },
+    {
+      "tag": "alumni",
+      "patterns": [
+        "Alumni network",
+        "Tell me about alumni",
+        "Connect with alumni"
+      ],
+      "responses": [
+        "Our alumni network is strong, and we encourage students to connect with successful graduates. Learn more about our alumni achievements and network through our official website."
+      ]
+    },
+    {
+      "tag": "financial_aid",
+      "patterns": [
+        "Financial aid options",
+        "Scholarships",
+        "Tuition assistance"
+      ],
+      "responses": [
+        "We offer various financial aid options, including scholarships and tuition assistance programs. Explore details on eligibility and application procedures on our official website."
+      ]
+    },
+    {
+      "tag": "sports",
+      "patterns": [
+        "Sports programs",
+        "Tell me about sports",
+        "Athletics"
+      ],
+      "responses": [
+        "We have a vibrant sports culture with various sports programs and facilities. Check our sports department for information on sports programs, events, and facilities."
+      ]
+    },
+    {
+      "tag": "student_support",
+      "patterns": [
+        "Student support services",
+        "Counseling",
+        "Academic support"
+      ],
+      "responses": [
+        "We provide comprehensive student support services, including counseling, academic support, and career guidance. Explore the range of services available to students on our official website."
+      ]
+    },
+    {
+      "tag": "technology_resources",
+      "patterns": [
+        "Technology resources",
+        "IT services",
+        "Tech facilities"
+      ],
+      "responses": [
+        "Our university is equipped with modern technology resources and IT services. Learn more about the technology facilities available to students and faculty on our official website."
+      ]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "Tell me about the faculty",
+        "Faculty members",
+        "Teaching staff"
+      ],
+      "responses": [
+        "Our faculty consists of highly qualified and experienced professionals dedicated to providing quality education. You can explore details about individual faculty members on our website."
+      ]
+    },
+    {
+      "tag": "research",
+      "patterns": [
+        "Research opportunities",
+        "Tell me about research programs",
+        "Research facilities"
+      ],
+      "responses": [
+        "We encourage research and offer various opportunities for students and faculty. Explore our research programs, facilities, and ongoing projects on our official website."
+      ]
+    },
+    {
+      "tag": "internships",
+      "patterns": [
+        "Internship opportunities",
+        "Tell me about internships",
+        "Internship programs"
+      ],
+      "responses": [
+        "We provide internship opportunities to help students gain practical experience. Check with our career services department or explore internship programs on our official website."
+      ]
+    },
+    {
+      "tag": "alumni",
+      "patterns": [
+        "Alumni network",
+        "Tell me about alumni",
+        "Connect with alumni"
+      ],
+      "responses": [
+        "Our alumni network is strong, and we encourage students to connect with successful graduates. Learn more about our alumni achievements and network through our official website."
+      ]
+    },
+    {
+      "tag": "financial_aid",
+      "patterns": [
+        "Financial aid options",
+        "Scholarships",
+        "Tuition assistance"
+      ],
+      "responses": [
+        "We offer various financial aid options, including scholarships and tuition assistance programs. Explore details on eligibility and application procedures on our official website."
+      ]
+    },
+    {
+      "tag": "sports",
+      "patterns": [
+        "Sports programs",
+        "Tell me about sports",
+        "Athletics"
+      ],
+      "responses": [
+        "We have a vibrant sports culture with various sports programs and facilities. Check our sports department for information on sports programs, events, and facilities."
+      ]
+    },
+    {
+      "tag": "student_support",
+      "patterns": [
+        "Student support services",
+        "Counseling",
+        "Academic support"
+      ],
+      "responses": [
+        "We provide comprehensive student support services, including counseling, academic support, and career guidance. Explore the range of services available to students on our official website."
+      ]
+    },
+    {
+      "tag": "technology_resources",
+      "patterns": [
+        "Technology resources",
+        "IT services",
+        "Tech facilities"
+      ],
+      "responses": [
+        "Our university is equipped with modern technology resources and IT services. Learn more about the technology facilities available to students and faculty on our official website."
+      ]
+    },
+    {
+      "tag": "health_services",
+      "patterns": [
+        "Health services",
+        "Medical facilities",
+        "Wellness programs"
+      ],
+      "responses": [
+        "Our university is committed to the health and well-being of our students. Discover the medical facilities and wellness programs available on campus through our official website."
+      ]
+    },
+    {
+      "tag": "website",
+      "patterns": [
+        "Tell me about the official website",
+        "Website information",
+        "Where can I find information on the website?"
+      ],
+      "responses": [
+        "Our official website is the central hub for all information related to our university. Explore details about programs, admissions, events, faculty, and more at https://www.gehu.ac.in."
+      ]
+    },
+    {
+      "tag": "scholarships",
+      "patterns": [
+        "Scholarship details",
+        "Financial aid",
+        "Merit-based scholarships"
+      ],
+      "responses": [
+        "We offer various scholarships to support students in their academic journey. Explore scholarship details, eligibility criteria, and application procedures on our official website."
+      ]
+    },
+    {
+      "tag": "grafest",
+      "patterns": [
+        "Tell me about Grafest",
+        "Annual festival",
+        "Grafest events"
+      ],
+      "responses": [
+        "Grafest is our annual festival, showcasing the talents and creativity of our students. Stay tuned for exciting events, performances, and cultural celebrations. Check our event calendar for Grafest details."
+      ]
+    },
+    {
+      "tag": "default",
+      "patterns": [],
+      "responses": [
+        "I'm sorry, I didn't understand that. Could you please rephrase or ask another question?"
+      ]
+    }
+  ]
+}
